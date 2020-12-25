@@ -9,7 +9,7 @@
 I am pursuing BE CSE in India 🇮🇳. I am interested in, write about and develop software solutions for and with Python, PHP, C and willing to innovate new things which can improve the existing technology.
 
 ## 📬 Get in touch
-- Email : [rahulravisankar](rahulravisankarr@gmail.com)
+- Email : <a href = "mailto: rahulravisankarr@gmail.com"> 📨 rahulravisankarr@gmail.com </a>
 - LinkedIn : [linkedIn.com/in/rahul ravisankar](https://www.linkedin.com/in/rahul-ravisankar-647a0816b/)
 - Instagram : [instagram.com/rahul ravisankar](https://www.instagram.com/_.the_walk_alone._/)
 
