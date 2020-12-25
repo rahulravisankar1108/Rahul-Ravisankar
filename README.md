@@ -1,5 +1,6 @@
-
-<img src="Programming Pro.gif" width="400" height="200" align="center" />
+<p align="center">
+<img src="Programming Pro.gif" width="500"  />
+</p>
 
 # 👋 🏻Hey! I'm Rahul Ravisankar
 
