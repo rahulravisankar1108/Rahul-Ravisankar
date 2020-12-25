@@ -1,6 +1,8 @@
 
 <img src="Programming Pro.gif" width="400" height="200" align="center" />
-# 👋🏻 Hey! I'm Rahul Ravisankar
+
+# 👋 🏻Hey! I'm Rahul Ravisankar
+
 ## 👨‍💻 Currently in 3rd level of manufacturing.
 
 I am pursuing BE CSE in India 🇮🇳. I am interested in, write about and develop software solutions for and with Python, PHP, C and willing to innovate new things which can improve the existing technology.
@@ -12,7 +14,7 @@ I am pursuing BE CSE in India 🇮🇳. I am interested in, write about and deve
 
 
 ## My Tech Garage
-I am familiar in working with **Python** , **HTML & CSS **, **PHP** , **C** , **Django**
+I am familiar in working with **Python** , **HTML & CSS**, **PHP** , **C** , **Django**
 
 
 ##  My GitHub Stats
