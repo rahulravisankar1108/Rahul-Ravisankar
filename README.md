@@ -40,7 +40,7 @@ I am familiar in working with **Python** , **HTML & CSS**, **PHP** , **C** , **D
 	<li>Under Graduate**: <a href="http://siet.ac.in/">Sri Shakthi Institute of Engineering and Technology, Coimbatore</a></li>
   	<li>School: <a href="https://www.facebook.com/Premier-Vidyaa-Vikash-205739236139090/">Premier Vidyaa Vikash, Uliampalayam, Coimbatore</a></li>
 </ul>
-</details>
+</details> 
 
 ##  My GitHub Stats
 
