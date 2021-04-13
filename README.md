@@ -31,7 +31,7 @@ I am pursuing BE CSE in India 🇮🇳. I am interested in, write about and deve
 
 
 ## My Tech Garage
-I am familiar in working with **Python** , **HTML & CSS**, **PHP** , **C** , **Django**
+I am familiar in working with **Python** , **HTML & CSS**, **PHP** , **C** , **Django**, **NodeJS**, **Express**, **ReactJS**
 
 
 <details>
