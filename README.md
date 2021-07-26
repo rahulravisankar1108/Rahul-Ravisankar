@@ -4,7 +4,7 @@
 
 # 👋 🏻Hey! I'm<a href="https://www.linkedin.com/in/rahul-ravisankar-647a0816b/"> Rahul Ravisankar</a>
 
-## 👨‍💻 Currently in 3rd level of manufacturing.
+## 👨‍💻 Currently pursuing Bachelors Final Year
 
 I am pursuing BE CSE in India 🇮🇳. I am interested in, write about and develop software solutions for and with Python, PHP, C and willing to innovate new things which can improve the existing technology.
 
@@ -31,7 +31,7 @@ I am pursuing BE CSE in India 🇮🇳. I am interested in, write about and deve
 
 
 ## My Tech Garage
-I am familiar in working with **Python** , **HTML & CSS**, **PHP** , **C** , **Django**, **NodeJS**, **Express**, **ReactJS**
+I am familiar in working with **Python** , **HTML & CSS**, **PHP** , **C** , **Django**, **MERN**, **NLP**, **Azure**, **Flask**, **Selenium**, **AWS**, **PostGreSQL**
 
 
 <details>
